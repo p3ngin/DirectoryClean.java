@@ -6,7 +6,7 @@ import java.io.IOException;
 
 /**
  *
- * @StephenJuchno
+ * 
  */
 public class DirectoryClean {
 
